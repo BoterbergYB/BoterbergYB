@@ -1,0 +1,16 @@
+## Skoice's general settings. Read the installation instructions for more details.
+
+# The token of the Discord bot. This field has to be filled to enable Skoice.
+token: ODQ3MTI1MTI5MjI5NTAwNDM2.YK5gwQ.qRuoW9ROtLMNw3Nv3OD7V0oVJRY
+
+# The ID of the Discord server in which the Discord bot will operate. This field has to be filled to enable Skoice.
+server: '825264814799585300'
+
+# The ID of the main voice channel in which players will connect and will be, in a future update, when no one is around. This field has to be filled to enable Skoice.
+main-channel: '826150290625134682'
+
+# The radius in which a group of players has to be to start voice chatting.
+radius: 32
+
+# Whether or not players must press a key (X by default) to talk. This key must be configured by each player in their Discord settings.
+push-to-talk: false
